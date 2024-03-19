@@ -1,0 +1,19 @@
+body{
+    background-image: url(Images/aesthetic.jpg);
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+nav{
+    
+    
+    margin: 10px;
+    justify-content: space-between;
+    color: black;
+    display: flex;
+    flex-direction: row;
+}
+a {
+    color: white;
+}
