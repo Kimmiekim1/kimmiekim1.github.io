@@ -1,0 +1,52 @@
+body{
+    background-color: beige;
+    text-align: left;
+    color: saddlebrown;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(Images/waves.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+}
+.lim{
+    text-align: 50px;
+    text-decoration: underline;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 450px;
+    text-decoration: underline;
+    color: saddlebrown;
+    margin-top: -400px;
+
+}
+
+p{
+    font-size: 20px;
+    margin-left: 450px;
+    
+}s
+
+img{
+    margin-right: 200px;
+}
+progress{
+    margin-left: 40%;
+    width: 25%;
+    color:black;
+    border: 2px solid saddlebrown;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 20px;
+    background-color: brown;
+}
+.him{
+    animation:progress 2s ease-in-out forwards;
+}
+@keyframes progress{
+    0%{
+        width: 0%;
+        opacity: 0%;
+    }
+}
